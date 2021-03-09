@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miLogout"
+        android:icon="@drawable/ic_iconfinder_door_enter_entrance_exit_leave_logout_out__4831049"
+        app:showAsAction="always" />
+</menu>
